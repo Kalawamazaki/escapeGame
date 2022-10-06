@@ -1,1 +1,2 @@
-jar cvfm Escape.jar Manifest.txt escapeGame/*.class assets
+jar cvfm Escape.jar Manifest.txt escapeGame/*.class
+pause
